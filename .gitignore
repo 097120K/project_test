@@ -1,0 +1,11 @@
+project01_default/.cache
+project01_default/.parcel-cache
+project01_default/dist
+project01_default/node_modules
+
+project02_vue/node_modules
+
+project03_react/node_modules
+
+project04_vite/dist
+project04_vite/node_modules
